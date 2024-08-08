@@ -1,7 +1,11 @@
 body {
-    background-color: rgb(61, 228, 61);
+    background-color: rgb(61, 170, 61);
 }
 
 P{
     color:black
+}
+
+.coxa {
+    font-style: italic;
 }
