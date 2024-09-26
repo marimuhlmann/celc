@@ -1,5 +1,8 @@
 body {
     background-color: rgb(61, 170, 61);
+    text-align: center;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 P{
@@ -12,4 +15,9 @@ P{
 
 .img1 {
     width: 50%;
+    text-align: center;
+}
+
+header {
+    border-bottom: 2px ;
 }
